@@ -8,7 +8,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name="loc_Tab")
 public class Location implements Comparable<Location>{
-	@Id
+	@Id1
 	@Column(name="l_id")
 	private int locId;
 	@Column(name="l_name")
