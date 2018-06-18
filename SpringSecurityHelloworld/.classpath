@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-acl-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-aspects-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-cas-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-config-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-core-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-crypto-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-ldap-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-openid-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-remoting-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-taglibs-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/narendrab/Desktop/security/spring-security-web-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-aop-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-aop-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-aop-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-aspects-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-aspects-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-aspects-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-beans-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-beans-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-beans-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-build-src-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-context-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-context-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-context-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-context-support-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-context-support-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-context-support-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-core-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-core-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-core-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-expression-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-expression-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-expression-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-instrument-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-instrument-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-instrument-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-instrument-tomcat-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-instrument-tomcat-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-instrument-tomcat-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-jdbc-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-jdbc-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-jdbc-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-jms-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-jms-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-jms-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-orm-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-orm-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-orm-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-oxm-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-oxm-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-oxm-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-struts-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-struts-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-struts-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-test-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-test-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-test-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-tx-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-tx-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-tx-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-web-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-web-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-web-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-webmvc-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-webmvc-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-webmvc-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-webmvc-portlet-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-webmvc-portlet-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Projects/Narendra/newLibs/spring-webmvc-portlet-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
